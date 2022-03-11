@@ -6,3 +6,7 @@ body{
     width: auto;
     height: 750px;    
 }
+
+.center{
+    text-align: center;    
+}
